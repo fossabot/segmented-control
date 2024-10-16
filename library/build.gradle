@@ -1,0 +1,23 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.0"
+
+    defaultConfig {
+        
+        minSdkVersion 21
+        targetSdkVersion 30
+        
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
