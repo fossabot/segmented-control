@@ -1,6 +1,7 @@
 [![JitPack](https://img.shields.io/badge/JitPack-1.0.0-brightgreen.svg?style=for-the-badge)](https://jitpack.io/#debacodex/segmented-control)        
 
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://debacodes.blogspot.com)   
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://debacodes.blogspot.com) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdebacodex%2Fsegmented-control.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdebacodex%2Fsegmented-control?ref=badge_shield)
+  
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mr.deba.000?mibextid=ZbWKwL)
 
@@ -115,3 +116,6 @@ License
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdebacodex%2Fsegmented-control.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdebacodex%2Fsegmented-control?ref=badge_large)
